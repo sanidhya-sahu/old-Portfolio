@@ -5,7 +5,7 @@
     padding: 0;
 }
 body{
-    background-image: url(/linebg.jpg);
+    background-image: url(linebg.jpg);
        background-repeat: no-repeat;
        background-attachment: fixed;
     background-size: 100% 100%;
